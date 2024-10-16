@@ -1,3 +1,8 @@
-ADD()
-SUB()
-MULTI()
+main()
+{
+	ADD()
+	{
+		printf("addition");
+		exit(0);
+	}
+}
